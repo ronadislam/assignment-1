@@ -17,14 +17,17 @@
 }
 .logo{
     font-size: 15px;
+    margin-right: 655px;
 }
 .sigh-btn{    
-    padding: 10px 15px;
+    padding: 12px 18px;
     background-color: white;
-    border: 1px #006A50;
     border-radius: 5px;
     font-weight: bold;
-    color: #006A50;
+    color: #006A50;  
+    margin-right: 3px;
+    border: none;
+    border: 1px slid green;
     
 
 }
@@ -60,6 +63,7 @@
     font-weight: bold;
     color: white;
     /* margin-bottom: 40px; */
+    border: none;
 }
 
 .box-content{
@@ -257,12 +261,15 @@ h6{
 }
 .Newsletter-h1{
     padding: 20px;
-    font-size: 30px;
+    font-size: 35px;
+    margin-top: 35px;
+    margin-bottom: 10px;
 
 }
 .Newsletter-p{
     padding-bottom: 20px;
     font-size: 16px;
+    color: #3a3a3a;
 }
 .Newsletter{
     display: flex;
@@ -276,15 +283,20 @@ h6{
    padding: 12px;
    font-size: 16px;
    border: 1px solid #ddd;
-   border-radius: 5px;
+   border-radius: 10px 0px 0px 10px;
 
 }
 .Newsletter button{
     width: 15%;
    padding: 12px;
    font-size: 16px;
-    border: 1px solid #ddd;
+   border: 1px solid #ddd;
    background-color: white;
-   border-radius: 5px;
+   border-radius: 0px 10px  10px 0px;
+   background-color: #006A50;
+   color: white;
 
+}
+.news-promise{
+    color: #3a3a3a;
 }
