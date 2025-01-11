@@ -12,7 +12,7 @@
 }
 .navber{
     display: flex;
-    padding: 10px;
+    padding: 12px;
     justify-content: space-around;
 }
 .logo{
