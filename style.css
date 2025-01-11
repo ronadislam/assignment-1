@@ -218,6 +218,16 @@ h6{
     font-weight: bold;
     
 }
+.Donate-section-btn-2{
+    padding: 25PX 20px;
+    font-size: 30px;
+    background-color: #C6E4D6;
+    color: rgb(58, 56, 56);
+    border-radius: 10PX;
+    border: 1px solid rgb(193, 193, 193);
+    font-weight: bold;
+    
+}
 .amount{
     padding: 6px 225px;
     font-size: 28px;
