@@ -62,5 +62,20 @@
     /* margin-bottom: 40px; */
 }
 .hero-img{
-    
+
+}
+.one-box-content{
+    text-align: justify;
+    height: 200px;
+    width: 300px;
+    /* padding: 20px; */
+    /* border: 1px solid gray; */
+    padding: 20px;
+    background-color: #f8e4dd;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+}
+.Transformation-box{
+    padding: 10px;
 }
