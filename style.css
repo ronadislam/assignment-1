@@ -246,3 +246,45 @@ h6{
     color: white;
     border: none;
 }
+.Newsletter-Section{
+    text-align: center;
+    background-color: #9bd4bae3;
+    border-radius: 10px;
+    padding: 30px 10px;
+    margin: auto;
+    width: 82%;
+
+}
+.Newsletter-h1{
+    padding: 20px;
+    font-size: 30px;
+
+}
+.Newsletter-p{
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+.Newsletter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    margin: 20px 0;
+}
+.Newsletter input{
+   width: 40%;
+   padding: 12px;
+   font-size: 16px;
+   border: 1px solid #ddd;
+   border-radius: 5px;
+
+}
+.Newsletter button{
+    width: 15%;
+   padding: 12px;
+   font-size: 16px;
+    border: 1px solid #ddd;
+   background-color: white;
+   border-radius: 5px;
+
+}
